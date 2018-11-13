@@ -1,0 +1,19 @@
+{
+  "name": "vorlok",
+  "version": "1.0.0",
+  "description": "Package for vorloks.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testiramsve/vorlok.git"
+  },
+  "author": "B-loved Overlord",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/testiramsve/vorlok/issues"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "homepage": "https://github.com/testiramsve/vorlok#readme",
+  "main": "index.js"
+}
